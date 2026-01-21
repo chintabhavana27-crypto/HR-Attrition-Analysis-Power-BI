@@ -10,6 +10,11 @@ This repository contains a Power BI dashboard designed to analyze and visualize 
 - *Attrition by Gender*: Gender-based comparison of employee attrition rates.
 - *Work-Life Balance*: Shows the relationship between work-life balance scores and attrition rates.
 - *Job Satisfaction & Attrition*: Examines the effect of job satisfaction levels on employee attrition.
+## Technologies used
+- *Power BI for dashboard creation
+- *DAX for customer calculations
+- *CSV/EXCEL for data input
+- *Power Query for data transformation
 
 ## HR Insights & Recommendations
 
