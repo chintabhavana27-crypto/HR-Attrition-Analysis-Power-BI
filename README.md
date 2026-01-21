@@ -1,7 +1,9 @@
 # HR Attrition & Employee Insights Dashboard
 # Domain
 The Domain would simply be Human Resources (HR) focusing on employee data analytics and business intelligence.
+
 Primary Domain: HR Analytics
+
 Focus:Employee attrition,Performance,Department and Job satisfaction.
 
 ## Overview
