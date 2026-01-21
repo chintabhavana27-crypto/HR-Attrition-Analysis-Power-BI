@@ -1,4 +1,8 @@
 # HR Attrition & Employee Insights Dashboard
+# Domain
+The Domain would simply be Human Resources (HR) focusing on employee data analytics and business intelligence.
+Primary Domain: HR Analytics
+Focus:Employee attrition,Performance,Department and Job satisfaction.
 
 ## Overview
 This repository contains a Power BI dashboard designed to analyze and visualize employee attrition data. The dashboard provides in-depth insights into various factors affecting employee retention such as department, age, income, gender, work-life balance and job satisfaction. The analysis offers HR teams actionable recommendations to improve retention strategies and reduce turnover rates.
